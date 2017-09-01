@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author Christopher Smith
+*	@date 1st September 2017
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
